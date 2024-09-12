@@ -1,0 +1,16 @@
+Que11:-  Find the sum of all elements of 2D array. 
+Ans:-        # include <iostream>
+                   using namespace std;
+       
+                       void main()
+                   {
+                      int G[2][2],i,j,s=0i 
+                      for(i=0;i=2;i++)
+                        {  
+                           for(j=0;j<2;j++)
+              {
+                 s=s+a[i][i];
+              }
+            }
+          }
+     

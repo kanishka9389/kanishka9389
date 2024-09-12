@@ -1,0 +1,16 @@
+Que6:- Create an array of n elements and take input from user and display.
+
+Ans:-     #include <iostream>
+         using name space std,
+
+
+               int a [100];
+               int n,i;
+               for(i=0;i<n;i++)
+               {
+                 cin>>a[i];
+               }
+               for(i=0;i<n;i++)
+               {
+                 cout<<a[i];
+               }

@@ -1,0 +1,17 @@
+Que8:-  Create a structure of department have department id and department name.
+Ans:-      # include <iostream>
+                using name space std,
+       
+           struct department
+                 {
+                 int dept id;
+                 int dept name[50];
+
+          }
+           void main() { 
+           department SOPS;
+           SOPS.dept id= 256;
+           SOPS.dept name="SOPS";
+           cout<<SOPS.dept id;
+           cout<<SOPS.dept name;
+          }

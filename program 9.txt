@@ -1,0 +1,13 @@
+Que9:-  Create a union of salary have monthly salary and gadget .
+
+Ans:-      # include <iostream>
+          using name space std,
+
+
+            union salary {
+                 int monthly salary;
+                 char gadget [100];
+            }
+             salary s;
+             s.monthly-salary= 100000;
+             cout<<s.monthly-salary;

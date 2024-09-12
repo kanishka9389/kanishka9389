@@ -1,0 +1,21 @@
+Que12:- difference between structure and union.
+
+Ans:-   structure:- (1) structure keyword is used to create structure.
+                  (2) struct student 
+                      {
+                        int id;
+                        char name[10];
+                      }
+                  (3) size of structure is the sum of all variable.
+                  (4) comsume more memory.
+                  (5) we can use all variable at the same time.
+    
+       union:- (1) union keyword is used to create union.
+              (2) union.salary
+                 {
+                   int monthly-salary;
+                   int gadget;
+                 }
+               (3) union size is the maximum size of variable.
+               (4) consume limited memory
+                         (5) ﻿we can use only one variable at a time.

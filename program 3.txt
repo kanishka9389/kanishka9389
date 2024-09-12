@@ -1,0 +1,12 @@
+QUE:-  Display number from 1 to 100 .
+
+ 
+Ans:-  #include <iostream>
+            using name space std,
+               
+                 int i ;
+                 for ( i=1;i<=100;i++)
+                 { 
+                   cout<<i;
+                }
+
